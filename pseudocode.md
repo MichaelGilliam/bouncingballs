@@ -18,5 +18,7 @@
 
 - Function ball, get x, y, velocity, colors, and size
 
+- Draw / create ball, add a new ball
+
 
 
